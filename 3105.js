@@ -377,7 +377,7 @@ async function buildPackage(files) {
     replacementFilename: f.replacementFilename, replacementData: f.data
   }));
   const project = {
-    id: pkgId, name: "b'Locket", author: 'b', isPrivate: false,
+    id: pkgId, name: "duc'Locketgold", author: 'Đức', isPrivate: false,
     createdAt: now, updatedAt: now,
     bundleIdentifiers: [BUNDLE_ID], directories: [], rules
   };
